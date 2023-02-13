@@ -2,6 +2,8 @@
 
 ## **hello**
 
+Mi hermana cuando ha trabajado con este tipo de programas no tiene muchas dificultades pero tuvimos un caso en el que tardo un poco mas de una hora cargando y no se podían abrir mas programas, solo esperamos 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
