@@ -7,7 +7,8 @@ Mi hermana cuando ha trabajado con este tipo de programas no tiene muchas dificu
 Here are some ideas to get you started:
 
 -  I LIKE MUSIC <3
--  lOVE MOVIES
+-  LOVE MOVIES
+
 #HORARIO
 
 
