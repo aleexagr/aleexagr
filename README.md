@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 
 -  I LIKE MUSIC <3
 #HORARIO
+
+
 |       **Hora**       |             **Lunes**             |     **Martes**     |                   **Miercoles**                  |        **Jueves**       |      **Viernes**      |
 |:--------------------:|:---------------------------------:|:------------------:|:------------------------------------------------:|:-----------------------:|:---------------------:|
 |     11:05 - 11:55    | Mantenimiento y redes  de computo |                    |         Mantenimiento y redes  de computo        |                         |                       |
